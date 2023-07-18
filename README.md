@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=KKardd&theme=graywhite&hide_border=true&border_radius=5&card_width=800">
+    <img src="https://streak-stats.demolab.com?user=KKardd&theme=transparent&hide_border=true&border_radius=5&card_width=800&fire=000000&currStreakNum=000000&dates=66605E&ring=000000&sideNums=000000&excludeDaysLabel=000000&currStreakLabel=000000&sideLabels=000000">
 </div>
 
 
