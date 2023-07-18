@@ -1,6 +1,7 @@
-### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KKardd&theme=highcontrast&border_radius=5)](https://git.io/streak-stats)
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=KKardd&theme=highcontrast&border_radius=5&card_width=800)](https://git.io/streak-stats](https://streak-stats.demolab.com?user=KKardd&theme=graywhite&border_radius=5&card_width=800">
+</div>
 
 <!--
 **KKardd/KKardd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
